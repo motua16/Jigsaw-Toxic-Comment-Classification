@@ -48,6 +48,7 @@ Training Data has the following schema :
 | - processed-data
 | |- clean-train.csv # cleaned training data
 | |- clean-test.csv # cleaned test data
+|- README.md
 |- model-bert.ipynb # notebook with RoBERTa model 
 |- model-bilstm.ipynb # notebook with Bidirectional LSTM model
 |- submission.csv # sample submission on kaggle
